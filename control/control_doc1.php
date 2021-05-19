@@ -1,4 +1,3 @@
 <?php
-    $datos_recibidos = $_POST['input_doc1'];
-    echo $datos_recibidos;
+    echo 'Pasaste por el doc 1 ';
 ?>
